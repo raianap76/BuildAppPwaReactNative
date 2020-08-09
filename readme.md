@@ -26,7 +26,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/styllth/pwa-expo.git
+$ git clone https://github.com/raianap76/pwa-expo
 ```
 
 ### **Instalando dependências**
@@ -57,21 +57,7 @@ Para executar diretamente no Web Browser rode:
 $ yarn web
 ```
 
-## :smirk: Como contribuir para o projeto
-
-- Faça um Fork desse repositório,
-- Crie uma branch com as suas alterações: `git checkout -b my-feature`
-- Commit suas mudanças contando o que você fez: `git commit -m "feature: My new feature"`
-- Envie as suas alterações: `git push origin my-feature`
-
-> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
-
-<a id="licenca"></a>
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-<h4 align="center">
-    Feito com ❤️ by <a href="https://www.linkedin.com/in/styllth/" target="_blank">Styllth</a>
-</h4>
